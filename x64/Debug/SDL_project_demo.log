@@ -1,0 +1,3 @@
+﻿  SDL_project_demo.cpp
+E:\SDLproject\SDL_project_demo\SDL_project_demo\SDL_project_demo.cpp(3,8): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  SDL_project_demo.vcxproj -> E:\SDLproject\SDL_project_demo\x64\Debug\SDL_project_demo.exe

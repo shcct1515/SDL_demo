@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Shcct\\Desktop\\SDL\\",
+  "WorkspaceRootPath": "C:\\Users\\shcct\\OneDrive\\M\u00E1y t\u00EDnh\\SDL_demo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DBE88374-D785-4D2E-9E4C-DF7E59E269B1}|SDL_project_demo\\SDL_project_demo.vcxproj|C:\\Users\\Shcct\\Desktop\\SDL\\SDL_project_demo\\SDL_project_demo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{DBE88374-D785-4D2E-9E4C-DF7E59E269B1}|SDL_project_demo\\SDL_project_demo.vcxproj|C:\\Users\\shcct\\OneDrive\\M\u00E1y t\u00EDnh\\SDL_demo\\SDL_project_demo\\SDL_project_demo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DBE88374-D785-4D2E-9E4C-DF7E59E269B1}|SDL_project_demo\\SDL_project_demo.vcxproj|solutionrelative:SDL_project_demo\\SDL_project_demo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "SDL_project_demo.cpp",
-              "DocumentMoniker": "C:\\Users\\Shcct\\Desktop\\SDL\\SDL_project_demo\\SDL_project_demo.cpp",
+              "DocumentMoniker": "C:\\Users\\shcct\\OneDrive\\M\u00E1y t\u00EDnh\\SDL_demo\\SDL_project_demo\\SDL_project_demo.cpp",
               "RelativeDocumentMoniker": "SDL_project_demo\\SDL_project_demo.cpp",
-              "ToolTip": "C:\\Users\\Shcct\\Desktop\\SDL\\SDL_project_demo\\SDL_project_demo.cpp",
+              "ToolTip": "C:\\Users\\shcct\\OneDrive\\M\u00E1y t\u00EDnh\\SDL_demo\\SDL_project_demo\\SDL_project_demo.cpp",
               "RelativeToolTip": "SDL_project_demo\\SDL_project_demo.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-29T15:23:58.222Z",
               "EditorCaption": ""
